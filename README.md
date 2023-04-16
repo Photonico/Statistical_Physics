@@ -1,2 +1,3 @@
-# Statistical_Physics
+# Statistical Physics
+
 A Note on Statistical Physics
