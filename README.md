@@ -1,3 +1,3 @@
 # Statistical Physics
 
-❄️ A Note on Statistical Physics
+A Note on Statistical Physics
